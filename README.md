@@ -4,18 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Medical Doctor and Blockchain Developer
 ---------------------------------------
 
-Being a medical doctor in Nigeria you are expected to be calm, rich, smart, intelligent and everything nice.
-You are to understand and provide joy in every situation. Truly people are not wrong to think that way, Of course Nigerian doctors are smart, skilled, intelligent and most importantly BROKE,
-yes very !BROKE
-
 An average Nigerian Medical officer, practicing medicine alone in Nigeria, no side hustle earns less than $400 a month,
 while a teaching hospital consultant and a resident doctor earns less than $2000 a month. 
-A very sad reality! Nigerian-trained doctors are skilled and smart, we are trained to strive in any form of medical situation we always find a way. 
-That's why Nigerian-trained doctors are practicing all over the world. A lot of my colleagues have left and are still leaving the country.
-You can't blame them, I completely understand, The awesome Nigerian doctor salary structure is too unique to comprehend. I too was almost forced to leave but honestly 
+A very sad reality! Nigerian-trained doctors are skilled and smart,  
+That's why Nigerian-trained doctors are practicing all over the world.
+A lot of my colleagues have left and are still leaving the country.
+You can't blame them, I completely understand, The awesome Nigerian doctor salary structure is too unique to comprehend.
+I too was almost forced to leave but honestly 
 
 I don't want to leave home. I love my city, I am very happy here.
-I was born, grew-up, schooled, currently working and living in Benin city, Edo state, Nigeria. I really don 't think anything would take me away from home.
+I was born, grew-up, schooled, currently working and living in Benin city, Edo state, Nigeria.
+I really don 't think anything would take me away from home.
 
 I discovered coding in 2022 while searching for different ways to make money, Trust me I desperately wanted to be financially free. 
 I was tired of Everything, I was tired of waking up in the mornings becoming a slave for money.
@@ -23,7 +22,8 @@ I was tired of Everything, I was tired of waking up in the mornings becoming a s
 Importantly I came to realize that medicine is not something you practice for money, Anyone who practices medicine for money is at risk of a Progressive psychological break-down. 
 Medicine is something you do for love and practice with kindness. 
 
-For me coding originally was the financial savior, I started learning coding because I know its going to make me wealthy And also give me time to practice medicine for love without worrying about money.
+For me coding originally was the financial savior,
+I started learning coding because I know its going to make me wealthy And also give me time to practice medicine for love without worrying about money.
 
 I have seen coding change people's lives for good.
 C'mon checkout @Elon, @Bill, @Mark they are all doing well ('\_'), And I know I am next in-line 
