@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is OMORUYI SOLOMON OSARUGUE
 ================================================================================================================================================
 
-Medical Doctor and Blockchain Developer
+From Medical Doctor to Blockchain Software Developer
 ---------------------------------------
 
 An average Nigerian Medical officer, practicing medicine alone in Nigeria, no side hustle earns less than $400 a month,
