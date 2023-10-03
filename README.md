@@ -3,32 +3,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 From Medical Doctor to Blockchain Software Developer
 ---------------------------------------
+Meet an average Nigerian Medical officer, tirelessly dedicated to the art of healing in the heart of Nigeria. With no side gigs to boost their income, they earn a modest sum of less than $400 each month. Meanwhile, even the most esteemed teaching hospital consultants and resident doctors in this country find themselves earning less than $2000 a month. It's a somber truth that hangs heavy on the minds of these highly skilled and intelligent Nigerian-trained doctors.
 
-An average Nigerian Medical officer, practicing medicine alone in Nigeria, no side hustle earns less than $400 a month,
-while a teaching hospital consultant and a resident doctor earns less than $2000 a month. 
-A very sad reality! Nigerian-trained doctors are skilled and smart,  
-That's why Nigerian-trained doctors are practicing all over the world.
-A lot of my colleagues have left and are still leaving the country.
-You can't blame them, I completely understand, The awesome Nigerian doctor salary structure is too unique to comprehend.
-I too was almost forced to leave but honestly 
+Their expertise knows no bounds, which is why you'll find Nigerian-trained doctors practicing their craft all around the globe. Many of my fellow colleagues have bid farewell to their homeland, seeking greener pastures elsewhere. And who could blame them? The peculiar salary structure for Nigerian doctors is a riddle unto itself. I, too, was on the brink of joining the exodus, but to be honest...
 
-I don't want to leave home. I love my city, I am very happy here.
-I was born, grew-up, schooled, currently working and living in Benin city, Edo state, Nigeria.
-I really don 't think anything would take me away from home.
+I couldn't bear to leave my beloved home. Benin City, Edo State, Nigeria, is where I was born, raised, educated, and where I now work and reside. There's an indescribable attachment that keeps me rooted here. Nothing, I believe, could entice me away from my city.
 
-I discovered coding in 2022 while searching for different ways to make money, Trust me I desperately wanted to be financially free. 
-I was tired of Everything, I was tired of waking up in the mornings becoming a slave for money.
+In the year 2022, I stumbled upon the world of coding during a quest for alternative ways to achieve financial freedom. My longing for a life free from the shackles of financial dependency had reached its peak. The grind of trading time for money had grown tiresome.
 
-Importantly I came to realize that medicine is not something you practice for money, Anyone who practices medicine for money is at risk of a Progressive psychological break-down. 
-Medicine is something you do for love and practice with kindness. 
+It was during this journey that I realized that medicine should never be practiced solely for monetary gain. Those who do so risk a gradual erosion of their psychological well-being. Medicine is an endeavor driven by compassion and love, a calling to heal with kindness.
 
-For me coding originally was the financial savior,
-I started learning coding because I know its going to make me wealthy And also give me time to practice medicine for love without worrying about money.
+For me, coding emerged as a beacon of financial salvation. I embarked on the path of learning to code because I recognized its potential to bestow wealth and, equally importantly, to grant me the freedom to practice medicine with a heart full of love, unburdened by financial worries.
 
-I have seen coding change people's lives for good.
-C'mon checkout @Elon, @Bill, @Mark they are all doing well ('\_'), And I know I am next in-line 
-
-So far it has been a beautiful, challenging, mind opening journey and i am still on the road.
+I've witnessed how coding has transformed lives for the better. Just take a look at figures like @Elon, @Bill, @Mark – they've all achieved tremendous success ('_'). And I know, without a doubt, that I'm next in line.
 
 * 🌍  I'm based in Benin city, Nigeria
 * ✉️  You can contact me at [solomonomoruyi66@gmail.com](mailto:solomonomoruyi66@gmail.com)
